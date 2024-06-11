@@ -1,7 +1,7 @@
 # K-Means-Clustering-From-Scratch
 This repository contains an algorithm for clustering soccer players using K-Means clustering. The algorithm groups players based on their attributes, such as overall rating, potential, value, wage, and age. The steps involved in the clustering process are detailed below.
 
-Steps:
+<h1>Steps:</h1>
 <h3>1. Scale data</h3>
 <h3>2. Initialize random centroids</h3>
 <h3>3. Lable each data point</h3>
